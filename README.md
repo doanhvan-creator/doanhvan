@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/doanhvan-creator/doanhvan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/doanhvan-creator/doanhvan/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/doanhvan-creator/doanhvan/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -104,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/doanhvan-creator/doanhvan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -28,12 +29,14 @@
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/doanhvan-creator/doanhvan/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

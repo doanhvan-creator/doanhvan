@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/doanhvan-creator/doanhvan/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/doanhvan-creator/doanhvan/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/doanhvan-creator/doanhvan/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

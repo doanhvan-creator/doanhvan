@@ -63,6 +63,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/doanhvan-creator/doanhvan/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

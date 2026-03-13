@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/doanhvan-creator/doanhvan/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/doanhvan-creator/doanhvan/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -73,6 +74,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/doanhvan-creator/doanhvan/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/doanhvan-creator/doanhvan/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |

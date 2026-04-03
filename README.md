@@ -21,6 +21,7 @@
 | [0454-4sum-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/doanhvan-creator/doanhvan/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/doanhvan-creator/doanhvan/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,4 +260,5 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

@@ -116,6 +116,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/doanhvan-creator/doanhvan/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/doanhvan-creator/doanhvan/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/doanhvan-creator/doanhvan/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -174,6 +175,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/doanhvan-creator/doanhvan/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/doanhvan-creator/doanhvan/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |

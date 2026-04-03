@@ -79,6 +79,7 @@
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0168-excel-sheet-column-title](https://github.com/doanhvan-creator/doanhvan/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Recursion
 |  |
 | ------- |

@@ -78,6 +78,7 @@
 | [0575-distribute-candies](https://github.com/doanhvan-creator/doanhvan/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0141-linked-list-cycle](https://github.com/doanhvan-creator/doanhvan/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/doanhvan-creator/doanhvan/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
+| [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |

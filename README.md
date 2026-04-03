@@ -117,6 +117,7 @@
 | [0168-excel-sheet-column-title](https://github.com/doanhvan-creator/doanhvan/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/doanhvan-creator/doanhvan/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/doanhvan-creator/doanhvan/tree/master/1518-water-bottles) |
 ## Recursion
@@ -177,6 +178,7 @@
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
+| [1103-distribute-candies-to-people](https://github.com/doanhvan-creator/doanhvan/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/doanhvan-creator/doanhvan/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |

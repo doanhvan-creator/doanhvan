@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0454-4sum-ii) |
 ## String
@@ -34,6 +35,7 @@
 | [0290-word-pattern](https://github.com/doanhvan-creator/doanhvan/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/doanhvan-creator/doanhvan/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
@@ -124,11 +126,13 @@
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |

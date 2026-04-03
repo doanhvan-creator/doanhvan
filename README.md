@@ -69,6 +69,7 @@
 | [0454-4sum-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/doanhvan-creator/doanhvan/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
@@ -143,6 +144,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
 ## Dynamic Programming
 |  |
 | ------- |

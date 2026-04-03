@@ -37,6 +37,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/doanhvan-creator/doanhvan/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/doanhvan-creator/doanhvan/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0070-climbing-stairs](https://github.com/doanhvan-creator/doanhvan/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/doanhvan-creator/doanhvan/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |

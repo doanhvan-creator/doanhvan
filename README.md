@@ -33,6 +33,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/doanhvan-creator/doanhvan/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/doanhvan-creator/doanhvan/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/doanhvan-creator/doanhvan/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -139,6 +140,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/doanhvan-creator/doanhvan/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/doanhvan-creator/doanhvan/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |

@@ -66,6 +66,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/doanhvan-creator/doanhvan/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/doanhvan-creator/doanhvan/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/doanhvan-creator/doanhvan/tree/master/2129-capitalize-the-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -130,6 +131,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/doanhvan-creator/doanhvan/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/doanhvan-creator/doanhvan/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/doanhvan-creator/doanhvan/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/doanhvan-creator/doanhvan/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->

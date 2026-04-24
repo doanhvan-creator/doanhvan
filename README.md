@@ -117,6 +117,7 @@
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/doanhvan-creator/doanhvan/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -203,6 +204,7 @@
 | [0141-linked-list-cycle](https://github.com/doanhvan-creator/doanhvan/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/doanhvan-creator/doanhvan/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -355,6 +358,7 @@
 | [0011-container-with-most-water](https://github.com/doanhvan-creator/doanhvan/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/doanhvan-creator/doanhvan/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/doanhvan-creator/doanhvan/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/doanhvan-creator/doanhvan/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

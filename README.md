@@ -122,6 +122,7 @@
 | [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/doanhvan-creator/doanhvan/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/doanhvan-creator/doanhvan/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
@@ -199,6 +200,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/doanhvan-creator/doanhvan/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/doanhvan-creator/doanhvan/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
@@ -393,4 +395,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/2185-counting-words-with-a-given-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

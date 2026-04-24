@@ -59,6 +59,7 @@
 | [0771-jewels-and-stones](https://github.com/doanhvan-creator/doanhvan/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/doanhvan-creator/doanhvan/tree/master/0824-goat-latin) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/doanhvan-creator/doanhvan/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/doanhvan-creator/doanhvan/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/doanhvan-creator/doanhvan/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1694-reformat-phone-number) |
@@ -198,6 +199,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/doanhvan-creator/doanhvan/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/doanhvan-creator/doanhvan/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |

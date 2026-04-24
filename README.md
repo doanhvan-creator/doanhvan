@@ -200,6 +200,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/doanhvan-creator/doanhvan/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/doanhvan-creator/doanhvan/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/doanhvan-creator/doanhvan/tree/master/2000-reverse-prefix-of-word) |
@@ -399,4 +400,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/doanhvan-creator/doanhvan/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

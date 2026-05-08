@@ -121,6 +121,7 @@
 | [0485-max-consecutive-ones](https://github.com/doanhvan-creator/doanhvan/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/doanhvan-creator/doanhvan/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/doanhvan-creator/doanhvan/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/doanhvan-creator/doanhvan/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0819-most-common-word) |
@@ -230,6 +231,7 @@
 | [0035-search-insert-position](https://github.com/doanhvan-creator/doanhvan/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/doanhvan-creator/doanhvan/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doanhvan-creator/doanhvan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/doanhvan-creator/doanhvan/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |

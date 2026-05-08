@@ -190,6 +190,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/doanhvan-creator/doanhvan/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2485-find-the-pivot-integer](https://github.com/doanhvan-creator/doanhvan/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/doanhvan-creator/doanhvan/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/doanhvan-creator/doanhvan/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/doanhvan-creator/doanhvan/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |

@@ -238,6 +238,7 @@
 | [0069-sqrtx](https://github.com/doanhvan-creator/doanhvan/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doanhvan-creator/doanhvan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/doanhvan-creator/doanhvan/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/doanhvan-creator/doanhvan/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/doanhvan-creator/doanhvan/tree/master/0704-binary-search) |
@@ -423,5 +424,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/doanhvan-creator/doanhvan/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/doanhvan-creator/doanhvan/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

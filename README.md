@@ -22,6 +22,7 @@
 | [0575-distribute-candies](https://github.com/doanhvan-creator/doanhvan/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/doanhvan-creator/doanhvan/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/doanhvan-creator/doanhvan/tree/master/0819-most-common-word) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/doanhvan-creator/doanhvan/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/doanhvan-creator/doanhvan/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/doanhvan-creator/doanhvan/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -133,6 +134,7 @@
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/doanhvan-creator/doanhvan/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/doanhvan-creator/doanhvan/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/doanhvan-creator/doanhvan/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/doanhvan-creator/doanhvan/tree/master/1732-find-the-highest-altitude) |
@@ -227,6 +229,7 @@
 | [0658-find-k-closest-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/doanhvan-creator/doanhvan/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/doanhvan-creator/doanhvan/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/doanhvan-creator/doanhvan/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -238,6 +241,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/doanhvan-creator/doanhvan/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/doanhvan-creator/doanhvan/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/doanhvan-creator/doanhvan/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -256,6 +260,7 @@
 | [0658-find-k-closest-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/doanhvan-creator/doanhvan/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/doanhvan-creator/doanhvan/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/doanhvan-creator/doanhvan/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/doanhvan-creator/doanhvan/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/doanhvan-creator/doanhvan/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/doanhvan-creator/doanhvan/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

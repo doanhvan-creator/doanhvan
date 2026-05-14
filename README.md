@@ -329,6 +329,7 @@
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/doanhvan-creator/doanhvan/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -346,6 +347,7 @@
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/doanhvan-creator/doanhvan/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -366,6 +368,7 @@
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/doanhvan-creator/doanhvan/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -390,6 +393,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |

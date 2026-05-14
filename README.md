@@ -323,6 +323,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -337,6 +338,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/doanhvan-creator/doanhvan/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/doanhvan-creator/doanhvan/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
 |  |
@@ -442,4 +446,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/doanhvan-creator/doanhvan/tree/master/0257-binary-tree-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/doanhvan-creator/doanhvan/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

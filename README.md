@@ -202,6 +202,7 @@
 | [0202-happy-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/doanhvan-creator/doanhvan/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |

@@ -209,6 +209,7 @@
 | [0342-power-of-four](https://github.com/doanhvan-creator/doanhvan/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/doanhvan-creator/doanhvan/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/1295-find-numbers-with-even-number-of-digits) |

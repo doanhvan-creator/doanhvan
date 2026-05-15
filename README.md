@@ -201,6 +201,7 @@
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/doanhvan-creator/doanhvan/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/doanhvan-creator/doanhvan/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/doanhvan-creator/doanhvan/tree/master/1103-distribute-candies-to-people) |
@@ -547,4 +549,8 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/doanhvan-creator/doanhvan/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/doanhvan-creator/doanhvan/tree/master/1791-find-center-of-star-graph) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

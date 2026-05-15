@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/doanhvan-creator/doanhvan/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/doanhvan-creator/doanhvan/tree/master/0383-ransom-note) |
@@ -123,6 +124,7 @@
 | [0200-number-of-islands](https://github.com/doanhvan-creator/doanhvan/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/doanhvan-creator/doanhvan/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/doanhvan-creator/doanhvan/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -193,6 +195,7 @@
 | [0070-climbing-stairs](https://github.com/doanhvan-creator/doanhvan/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/doanhvan-creator/doanhvan/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |
 | [1103-distribute-candies-to-people](https://github.com/doanhvan-creator/doanhvan/tree/master/1103-distribute-candies-to-people) |
@@ -257,6 +260,7 @@
 | [0069-sqrtx](https://github.com/doanhvan-creator/doanhvan/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/doanhvan-creator/doanhvan/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doanhvan-creator/doanhvan/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/doanhvan-creator/doanhvan/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/doanhvan-creator/doanhvan/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |
@@ -275,6 +279,7 @@
 | [0169-majority-element](https://github.com/doanhvan-creator/doanhvan/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/doanhvan-creator/doanhvan/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/doanhvan-creator/doanhvan/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/doanhvan-creator/doanhvan/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/doanhvan-creator/doanhvan/tree/master/0455-assign-cookies) |
@@ -296,6 +301,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/doanhvan-creator/doanhvan/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/doanhvan-creator/doanhvan/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/doanhvan-creator/doanhvan/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation

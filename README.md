@@ -204,6 +204,7 @@
 | [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/doanhvan-creator/doanhvan/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/doanhvan-creator/doanhvan/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/doanhvan-creator/doanhvan/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/doanhvan-creator/doanhvan/tree/master/0509-fibonacci-number) |
@@ -554,4 +555,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/doanhvan-creator/doanhvan/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/doanhvan-creator/doanhvan/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/doanhvan-creator/doanhvan/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
